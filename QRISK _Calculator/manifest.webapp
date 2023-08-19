@@ -1,0 +1,19 @@
+{
+  "version": "0.1.0",
+  "name": "Qrisk Calculator",
+  "description": "Calculate the number of Qrisk",
+  "launch_path": "index.html",
+  "icons": {
+    "48": "/img/omrs-button.png"
+  },
+  "developer": {
+    "name": "Qingyan-Huang",
+    "url": "https://github.com/Qingyan-Huang/openmrs-owa-qriskcalculator"
+  },
+  "default_locale": "en",
+    "activities": {
+      "openmrs": {
+        "href": "*"
+      }
+    }
+}
